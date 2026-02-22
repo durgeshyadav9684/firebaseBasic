@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mpr</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1247586974136975</string>
+    <string name="facebook_client_token">e5458f85528390ef6f99b672cdc53ceb</string>
+    <string name="fb_login_protocol_scheme">fb1247586974136975</string>
+</resources>
